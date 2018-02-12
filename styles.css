@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+#wrapper{
+    width: 970px;
+    background-color: rgb(18,53,91);
+    margin: 0px auto;
+    padding: 5px;
+}
+#header{
+    background-color: rgb(215,38,56);
+    border-radius: 8px;
+    font-size: 14px;
+    font-style: bold;
+    color: rgb(191,215,234);
+    padding: 18px;
+    margin: 0px 5px 20px 5px;
+}
+#mainarea{
+    height: 400px;
+    width: 720px;
+    background-color: rgb(12,24,23);
+    color:rgb(191,215,234);
+    float: right;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+    
+ }
+#sidebar{
+    color:rgb(150,186,222);
+    background-color: rgb(8,126,139);
+    border-radius: 20px;
+    display: inline-block;
+    padding: 15px;
+    font-size: 12px;
+    margin: 0px 0px 20px 5px;
+    width: 150px
+}
+#footer{
+    background-color: rgb(92,102,114);
+    border-radius: 15px;
+    padding: 15px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    width: 930px;
+    color: rgb(150,186,222);
+}
+#inside_list{
+    list-style: circle;
+}
+#main_list{
+    margin-inline-start: 5px;
+}
+a{
+    color: rgb(82,222,229);
+}.intext{
+    color: rgb(118,146,248);
+    display: inline-block;
+}
+li{
+padding: 1px;
+margin-left: 15px;
+}
